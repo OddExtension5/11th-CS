@@ -34,5 +34,17 @@
 
 1. To create a database
 2. To create student table with the student id, class, section, gender, name, dob, and marks as attributes where the student id is the primary key.
-3. To insert the details of at least 10 students in the above table
-4. 
+3. To insert the details of at least 10 students in the above table.
+4. To delete the details of a particular student in the above table.
+5. To increase marks by 5% for those students who have Rno more than 20.
+6. To display the entire content of table.
+7. To display Rno, Name and Marks of those students who are scoring marks more than 50.
+8. To find the average of marks from the student table.
+9. To find the number of students, who are from section 'A'.
+10. To add a new column email in the above table with appropriate data type.
+11. To add the email ids of each student in the previously created email column.
+12. To display the information of all the students, whose name starts with 'AN' (Example: ANAND, ANGAD, ..)
+13. To display Rno, Name, DOB of those students who are born between '2005-01-01' and '2005-12-31'.
+14. To display Rno, Name, DOB, Marks, Email of those male students in ascending order of their names.
+15. To display Rno, Name, DOB, Marks, Email of those male students in descending order of their marks.
+16. To display the unique section available in the table.
