@@ -16,4 +16,8 @@
 
 **08**. Given a number x, determine whether the given number is Armstrong number or not.
 
-**09**. 
+**09**. Write the python program to frind out the area of a circle.
+
+**10**. Write a python program for Sum of squares of first n natural numbers.
+
+**11**. Write a python program for cube sum of first n natural numbers.
